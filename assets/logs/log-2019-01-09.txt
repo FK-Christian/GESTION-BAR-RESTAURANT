@@ -1,0 +1,69 @@
+INFO - 2019-01-09 12:51:39 --> Config Class Initialized
+INFO - 2019-01-09 12:51:39 --> Hooks Class Initialized
+DEBUG - 2019-01-09 12:51:39 --> UTF-8 Support Enabled
+INFO - 2019-01-09 12:51:39 --> Utf8 Class Initialized
+INFO - 2019-01-09 12:51:39 --> URI Class Initialized
+INFO - 2019-01-09 12:51:39 --> Router Class Initialized
+INFO - 2019-01-09 12:51:39 --> Output Class Initialized
+INFO - 2019-01-09 12:51:39 --> Security Class Initialized
+DEBUG - 2019-01-09 12:51:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-09 12:51:39 --> Input Class Initialized
+INFO - 2019-01-09 12:51:39 --> Language Class Initialized
+ERROR - 2019-01-09 12:51:39 --> 404 Page Not Found: /index
+INFO - 2019-01-09 12:51:40 --> Config Class Initialized
+INFO - 2019-01-09 12:51:40 --> Hooks Class Initialized
+DEBUG - 2019-01-09 12:51:40 --> UTF-8 Support Enabled
+INFO - 2019-01-09 12:51:40 --> Utf8 Class Initialized
+INFO - 2019-01-09 12:51:40 --> URI Class Initialized
+DEBUG - 2019-01-09 12:51:40 --> No URI present. Default controller set.
+INFO - 2019-01-09 12:51:40 --> Router Class Initialized
+INFO - 2019-01-09 12:51:40 --> Output Class Initialized
+INFO - 2019-01-09 12:51:40 --> Security Class Initialized
+DEBUG - 2019-01-09 12:51:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-09 12:51:40 --> Input Class Initialized
+INFO - 2019-01-09 12:51:40 --> Language Class Initialized
+INFO - 2019-01-09 12:51:40 --> Language Class Initialized
+INFO - 2019-01-09 12:51:40 --> Config Class Initialized
+INFO - 2019-01-09 12:51:40 --> Loader Class Initialized
+INFO - 2019-01-09 12:51:40 --> Helper loaded: url_helper
+INFO - 2019-01-09 12:51:40 --> Helper loaded: file_helper
+INFO - 2019-01-09 12:51:40 --> Helper loaded: my_helper
+INFO - 2019-01-09 12:51:40 --> Helper loaded: form_helper
+INFO - 2019-01-09 12:51:40 --> Helper loaded: dompdf_helper
+INFO - 2019-01-09 12:51:40 --> Database Driver Class Initialized
+INFO - 2019-01-09 12:51:40 --> Email Class Initialized
+INFO - 2019-01-09 12:51:40 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-09 12:51:40 --> Controller Class Initialized
+INFO - 2019-01-09 12:51:40 --> Model Class Initialized
+DEBUG - 2019-01-09 12:51:40 --> File loaded: /home/vegas-security/www/vegas/application/modules/user/models/User_model.php
+INFO - 2019-01-09 12:51:40 --> Model Class Initialized
+INFO - 2019-01-09 12:51:41 --> Config Class Initialized
+INFO - 2019-01-09 12:51:41 --> Hooks Class Initialized
+DEBUG - 2019-01-09 12:51:41 --> UTF-8 Support Enabled
+INFO - 2019-01-09 12:51:41 --> Utf8 Class Initialized
+INFO - 2019-01-09 12:51:41 --> URI Class Initialized
+INFO - 2019-01-09 12:51:41 --> Router Class Initialized
+INFO - 2019-01-09 12:51:41 --> Output Class Initialized
+INFO - 2019-01-09 12:51:41 --> Security Class Initialized
+DEBUG - 2019-01-09 12:51:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-09 12:51:41 --> Input Class Initialized
+INFO - 2019-01-09 12:51:41 --> Language Class Initialized
+INFO - 2019-01-09 12:51:41 --> Language Class Initialized
+INFO - 2019-01-09 12:51:41 --> Config Class Initialized
+INFO - 2019-01-09 12:51:41 --> Loader Class Initialized
+INFO - 2019-01-09 12:51:41 --> Helper loaded: url_helper
+INFO - 2019-01-09 12:51:41 --> Helper loaded: file_helper
+INFO - 2019-01-09 12:51:41 --> Helper loaded: my_helper
+INFO - 2019-01-09 12:51:41 --> Helper loaded: form_helper
+INFO - 2019-01-09 12:51:41 --> Helper loaded: dompdf_helper
+INFO - 2019-01-09 12:51:41 --> Database Driver Class Initialized
+INFO - 2019-01-09 12:51:41 --> Email Class Initialized
+INFO - 2019-01-09 12:51:41 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-09 12:51:41 --> Controller Class Initialized
+INFO - 2019-01-09 12:51:41 --> Model Class Initialized
+DEBUG - 2019-01-09 12:51:41 --> File loaded: /home/vegas-security/www/vegas/application/modules/user/models/User_model.php
+INFO - 2019-01-09 12:51:41 --> Model Class Initialized
+DEBUG - 2019-01-09 12:51:41 --> File loaded: /home/vegas-security/www/vegas/application/views/include/script.php
+DEBUG - 2019-01-09 12:51:41 --> File loaded: /home/vegas-security/www/vegas/application/modules/user/views/login.php
+INFO - 2019-01-09 12:51:41 --> Final output sent to browser
+DEBUG - 2019-01-09 12:51:41 --> Total execution time: 0.0210

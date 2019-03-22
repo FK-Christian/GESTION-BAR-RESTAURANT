@@ -1,0 +1,98 @@
+INFO - 2018-08-02 16:32:57 --> Config Class Initialized
+INFO - 2018-08-02 16:32:57 --> Hooks Class Initialized
+DEBUG - 2018-08-02 16:32:57 --> UTF-8 Support Enabled
+INFO - 2018-08-02 16:32:57 --> Utf8 Class Initialized
+INFO - 2018-08-02 16:32:57 --> URI Class Initialized
+INFO - 2018-08-02 16:32:57 --> Router Class Initialized
+INFO - 2018-08-02 16:32:57 --> Output Class Initialized
+INFO - 2018-08-02 16:32:57 --> Security Class Initialized
+DEBUG - 2018-08-02 16:32:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-08-02 16:32:57 --> Input Class Initialized
+INFO - 2018-08-02 16:32:57 --> Language Class Initialized
+INFO - 2018-08-02 16:32:57 --> Language Class Initialized
+INFO - 2018-08-02 16:32:57 --> Config Class Initialized
+INFO - 2018-08-02 16:32:57 --> Loader Class Initialized
+INFO - 2018-08-02 16:32:57 --> Helper loaded: url_helper
+INFO - 2018-08-02 16:32:57 --> Helper loaded: file_helper
+INFO - 2018-08-02 16:32:57 --> Helper loaded: my_helper
+INFO - 2018-08-02 16:32:57 --> Helper loaded: form_helper
+INFO - 2018-08-02 16:32:57 --> Helper loaded: dompdf_helper
+INFO - 2018-08-02 16:32:57 --> Database Driver Class Initialized
+INFO - 2018-08-02 16:32:58 --> Email Class Initialized
+INFO - 2018-08-02 16:32:58 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-02 16:32:58 --> Controller Class Initialized
+INFO - 2018-08-02 16:32:58 --> Model Class Initialized
+DEBUG - 2018-08-02 16:32:58 --> File loaded: /home/vegas-security/www/vegas/application/modules/gestion_mobile/models/Gestion_mobile_model.php
+INFO - 2018-08-02 16:32:58 --> Model Class Initialized
+INFO - 2018-08-02 16:32:58 --> Config Class Initialized
+INFO - 2018-08-02 16:32:58 --> Hooks Class Initialized
+DEBUG - 2018-08-02 16:32:58 --> UTF-8 Support Enabled
+INFO - 2018-08-02 16:32:58 --> Utf8 Class Initialized
+INFO - 2018-08-02 16:32:58 --> URI Class Initialized
+INFO - 2018-08-02 16:32:58 --> Router Class Initialized
+INFO - 2018-08-02 16:32:58 --> Output Class Initialized
+INFO - 2018-08-02 16:32:58 --> Security Class Initialized
+DEBUG - 2018-08-02 16:32:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-08-02 16:32:58 --> Input Class Initialized
+INFO - 2018-08-02 16:32:58 --> Language Class Initialized
+ERROR - 2018-08-02 16:32:58 --> 404 Page Not Found: /index
+INFO - 2018-08-02 16:32:59 --> Config Class Initialized
+INFO - 2018-08-02 16:32:59 --> Hooks Class Initialized
+DEBUG - 2018-08-02 16:32:59 --> UTF-8 Support Enabled
+INFO - 2018-08-02 16:32:59 --> Utf8 Class Initialized
+INFO - 2018-08-02 16:32:59 --> URI Class Initialized
+INFO - 2018-08-02 16:32:59 --> Router Class Initialized
+INFO - 2018-08-02 16:32:59 --> Output Class Initialized
+INFO - 2018-08-02 16:32:59 --> Security Class Initialized
+DEBUG - 2018-08-02 16:32:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-08-02 16:32:59 --> Input Class Initialized
+INFO - 2018-08-02 16:32:59 --> Language Class Initialized
+INFO - 2018-08-02 16:32:59 --> Language Class Initialized
+INFO - 2018-08-02 16:32:59 --> Config Class Initialized
+INFO - 2018-08-02 16:32:59 --> Loader Class Initialized
+INFO - 2018-08-02 16:32:59 --> Helper loaded: url_helper
+INFO - 2018-08-02 16:32:59 --> Helper loaded: file_helper
+INFO - 2018-08-02 16:32:59 --> Helper loaded: my_helper
+INFO - 2018-08-02 16:32:59 --> Helper loaded: form_helper
+INFO - 2018-08-02 16:32:59 --> Helper loaded: dompdf_helper
+INFO - 2018-08-02 16:32:59 --> Database Driver Class Initialized
+INFO - 2018-08-02 16:32:59 --> Email Class Initialized
+INFO - 2018-08-02 16:32:59 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-02 16:32:59 --> Controller Class Initialized
+INFO - 2018-08-02 16:32:59 --> Model Class Initialized
+DEBUG - 2018-08-02 16:32:59 --> File loaded: /home/vegas-security/www/vegas/application/modules/user/models/User_model.php
+INFO - 2018-08-02 16:32:59 --> Model Class Initialized
+DEBUG - 2018-08-02 16:32:59 --> File loaded: /home/vegas-security/www/vegas/application/views/include/script.php
+DEBUG - 2018-08-02 16:32:59 --> File loaded: /home/vegas-security/www/vegas/application/modules/user/views/login.php
+INFO - 2018-08-02 16:32:59 --> Final output sent to browser
+DEBUG - 2018-08-02 16:32:59 --> Total execution time: 0.0202
+INFO - 2018-08-02 16:32:59 --> Config Class Initialized
+INFO - 2018-08-02 16:32:59 --> Hooks Class Initialized
+DEBUG - 2018-08-02 16:32:59 --> UTF-8 Support Enabled
+INFO - 2018-08-02 16:32:59 --> Utf8 Class Initialized
+INFO - 2018-08-02 16:32:59 --> URI Class Initialized
+INFO - 2018-08-02 16:32:59 --> Router Class Initialized
+INFO - 2018-08-02 16:32:59 --> Output Class Initialized
+INFO - 2018-08-02 16:32:59 --> Security Class Initialized
+DEBUG - 2018-08-02 16:32:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-08-02 16:32:59 --> Input Class Initialized
+INFO - 2018-08-02 16:32:59 --> Language Class Initialized
+INFO - 2018-08-02 16:33:00 --> Language Class Initialized
+INFO - 2018-08-02 16:33:00 --> Config Class Initialized
+INFO - 2018-08-02 16:33:00 --> Loader Class Initialized
+INFO - 2018-08-02 16:33:00 --> Helper loaded: url_helper
+INFO - 2018-08-02 16:33:00 --> Helper loaded: file_helper
+INFO - 2018-08-02 16:33:00 --> Helper loaded: my_helper
+INFO - 2018-08-02 16:33:00 --> Helper loaded: form_helper
+INFO - 2018-08-02 16:33:00 --> Helper loaded: dompdf_helper
+INFO - 2018-08-02 16:33:00 --> Database Driver Class Initialized
+INFO - 2018-08-02 16:33:00 --> Email Class Initialized
+INFO - 2018-08-02 16:33:00 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-02 16:33:00 --> Controller Class Initialized
+INFO - 2018-08-02 16:33:00 --> Model Class Initialized
+DEBUG - 2018-08-02 16:33:00 --> File loaded: /home/vegas-security/www/vegas/application/modules/user/models/User_model.php
+INFO - 2018-08-02 16:33:00 --> Model Class Initialized
+DEBUG - 2018-08-02 16:33:00 --> File loaded: /home/vegas-security/www/vegas/application/views/include/script.php
+DEBUG - 2018-08-02 16:33:00 --> File loaded: /home/vegas-security/www/vegas/application/modules/user/views/login.php
+INFO - 2018-08-02 16:33:00 --> Final output sent to browser
+DEBUG - 2018-08-02 16:33:00 --> Total execution time: 0.0272
